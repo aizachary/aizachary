@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @azwebproductions
+- 👋 Hi, I’m @azwebproductions. I'll be adding more to my profile soon!
 - 👀 I’m interested in C++/C#/.NET, Visual Basic, Access/SQL, HTML, CSS and JavaScript.
 - 🌱 I’m currently learning Kotlin and expanding my knowledge of SQL.
 - 💞️ I’m looking to collaborate as much as possible.
